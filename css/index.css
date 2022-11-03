@@ -1,15 +1,17 @@
+*
+body {
+	background: url("../images/odin.jpg")
+}
 
-
-
-.index-heading {
-	font-family: sans-serif;
-	color: rgba(179, 176, 29, 0.74);
+#index-heading {
+	font-family: Skranji, sans-serif;
+	color: rgba(206, 126, 6, 0.822);
 	font-size: 50PX;
 	text-align: center;
 	text-shadow: 0px 4px 11px #000000;
-	border-bottom: 10px solid #889639 ;
 }
 .links-list {
-	font-family: sans-serif;
+	font-family: Skranji , sans-serif;
 	text-align: ;
 }
+2
